@@ -24,4 +24,16 @@ Perfect for:
 ---
 
 ## 📁 Project Structure
+reverse-number-stream-api/
+│
+├── README.md
+│
+└── src/main/java/in/ramesh/streamapi/
+    ├── ReverseNumberExecutor.java
+    ├── ReverseUsingMath.java
+    ├── ReverseUsingStringBuilder.java
+    ├── ReverseUsingStreamChars.java
+    ├── ReverseUsingIntStream.java
+    └── ReverseUsingPureStream.java
+
 
